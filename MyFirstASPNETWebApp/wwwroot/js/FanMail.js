@@ -4,4 +4,6 @@
         ", Message: " + $("#textMsg").val());
 
     $("#picGanderson").fadeToggle();
+
+    alert("Hello");
 })
